@@ -5,7 +5,7 @@ The aim of this analysis is to understand where the quality wine comes from, wha
 ------
 
 ### Medium post
-
+https://medium.com/@aleksandrarojek/can-machine-learning-model-taste-wine-5e0ef644c534
 
 ------
 
